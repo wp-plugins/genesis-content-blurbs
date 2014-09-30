@@ -5,7 +5,7 @@ Requires at least: 3.9
 Tested up to: 4.0
 License: GPL2
 
-Adds a content blurb widget
+This plugin adds a content blurb widget to any Genesis theme. The widget can be used in a Genesis widgetized home page or in a sidebar.
 
 == Description ==
 This plugin adds a new widget which outputs a customised content area to be used on any Genesis theme on the home page or in any widget area.
