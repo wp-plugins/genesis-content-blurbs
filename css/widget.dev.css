@@ -1,0 +1,19 @@
+/* This style sheet is used to style the public view of the widget, minified */
+.text-left{
+    text-align: left;
+}
+.content-blurb-side .three-fourths{
+    padding-left: 10px;
+}
+
+
+
+.content-blurb-top img, .content-blurb-side img{
+    max-width: 130px;
+}
+.content-blurb-side img{
+    width: 100%;
+}
+.content-blurb-side a img, .content-blurb-top a img{
+    margin-bottom: auto;
+}

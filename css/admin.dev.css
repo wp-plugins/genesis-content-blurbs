@@ -1,0 +1,22 @@
+/* This style sheet is used to style the admin option form of the widget, minified */
+.text-left{
+    text-align: left;
+}
+.blurb-layouts img{
+    width: initial;
+    cursor: pointer;
+}
+.blurb-layouts img:hover, .image-placement img:hover, .padding-options img:hover{
+    outline: 1px solid;
+}
+
+.selected {
+    outline: 1px solid;
+}
+.blurb-layouts input, .image-placement input, .padding-options input{
+    display: none;
+} 
+
+.remove{
+    display: none;
+}
