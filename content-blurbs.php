@@ -17,9 +17,6 @@
  * License: GPL v2.0 or later
  */
 
-//include plugins
-include( plugin_dir_path( __FILE__ ) . 'inc/plugins/plugins.php');
-
 add_action( 'widgets_init', create_function( '', "register_widget( 'lp_content_widget' );" ) );
 
 /**
